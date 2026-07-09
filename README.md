@@ -7,16 +7,15 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 ## Featured Projects
 
-- <img src="SPACE_ROCK.png" width="22" align="center" />**[De-Orbit: Space Preservation Mission](https://shahadalrashoud.github.io/De-Orbit-Space-Preservation-Mission)**  
-  Interactive project focused on space sustainability and orbital debris awareness.
-  Interactive project focused on space sustainability and orbital debris awareness.
   
-- <img src="mithaqi-logo" width="22" align="center" />**[Mithaqi: Family-Business Governance Platform](https://meethaqi.lovable.app/)**    
-  Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting processes, compliance monitoring, and stakeholder communication.
+- <img src="mithaqi-logo" width="22" align="center" />**[Mithaqi: Family-Business Governance Platform](https://meethaqi.lovable.app/)**  
+  Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting        processes, compliance monitoring, and stakeholder communication.
 
 - <img src="medsim-logo.png" width="22" align="center" />**[Medsim: Intelligent Medical Simulation Platform](https://meethaqi.lovable.app/)**    
-  LLM-powered educational web platform that helps health sciences students practice clinical reasoning through realistic virtual patient simulations, history-taking, examination selection, and structured feedback.
+  LLM-powered educational web platform that helps health sciences students practice clinical reasoning through realistic virtual patient   simulations, history-taking, examination selection, and structured feedback.
 
+- <img src="SPACE_ROCK.png" width="22" align="center" />**[De-Orbit: Space Preservation Mission](https://shahadalrashoud.github.io/De-Orbit-Space-Preservation-Mission)**  
+  De-Orbit: An immersive 3D space preservation mission built with Three.js. Track the real-time position of the ISS and clear orbital      debris to save the skies 
 ## Technical Skills
 
 - Languages: JavaScript, TypeScript, HTML, CSS
