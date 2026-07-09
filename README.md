@@ -9,9 +9,9 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 - **De-Orbit: Space Preservation Mission**  
   Interactive project focused on space sustainability and orbital debris awareness.
-
-- **Family Businesses Hackathon**  
-  Hackathon project focused on creating digital solutions for family-owned businesses.
+  
+- **Mithaqi: Family-Business Governance Platform**    
+  Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting processes, compliance monitoring, and stakeholder communication.
 
 ## Technical Skills
 
