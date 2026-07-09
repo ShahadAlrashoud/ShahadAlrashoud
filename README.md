@@ -1,16 +1,23 @@
-## Hi there 👋
+# Shahad Alrashoud
+Developer interested in creative technology, and interactive web experiences.
 
-<!--
-**ShahadAlrashoud/ShahadAlrashoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I enjoy building projects that combine design, storytelling, and code. My work includes hackathon projects, interactive web applications, and creative technical experiments.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **De-Orbit: Space Preservation Mission**  
+  Interactive project focused on space sustainability and orbital debris awareness.
+
+- **Family Businesses Hackathon**  
+  Hackathon project focused on creating digital solutions for family-owned businesses.
+
+## Technical Skills
+
+- Languages: JavaScript, TypeScript, HTML, CSS
+- Frameworks/Libraries: React, Three.js
+- Tools: Git, GitHub, VS Code
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/shahad-alrashoud-25796b2b0
