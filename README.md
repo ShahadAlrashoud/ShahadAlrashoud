@@ -13,6 +13,9 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 - **Mithaqi: Family-Business Governance Platform**    
   Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting processes, compliance monitoring, and stakeholder communication.
 
+- **Medsim: Intelligent Medical Simulation Platform**    
+  LLM-powered educational web platform that helps health sciences students practice clinical reasoning through realistic virtual patient simulations, history-taking, examination selection, and structured feedback.
+
 ## Technical Skills
 
 - Languages: JavaScript, TypeScript, HTML, CSS
