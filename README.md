@@ -7,13 +7,14 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 ## Featured Projects
 
-- **De-Orbit: Space Preservation Mission**  
+- **[De-Orbit: Space Preservation Mission](https://shahadalrashoud.github.io/De-Orbit-Space-Preservation-Mission)**  
+  Interactive project focused on space sustainability and orbital debris awareness.
   Interactive project focused on space sustainability and orbital debris awareness.
   
-- **Mithaqi: Family-Business Governance Platform**    
+- **[Mithaqi: Family-Business Governance Platform](https://meethaqi.lovable.app/)**    
   Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting processes, compliance monitoring, and stakeholder communication.
 
-- **Medsim: Intelligent Medical Simulation Platform**    
+- **[Medsim: Intelligent Medical Simulation Platform](https://meethaqi.lovable.app/)**    
   LLM-powered educational web platform that helps health sciences students practice clinical reasoning through realistic virtual patient simulations, history-taking, examination selection, and structured feedback.
 
 ## Technical Skills
