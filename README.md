@@ -5,8 +5,9 @@ Developer interested in creative technology, and interactive web experiences.
 I enjoy building projects that combine design, storytelling, and code. My work includes hackathon projects, interactive web applications, and creative technical experiments.
 
 
-## Featured Projects
-
+## Featured Projects  
+- <img src="BPrepared logo2.png" width="22" align="center" />**[BPrepared](BPrepared)**   
+    An AI-powered interview coach that simulates real interviews, analyzes responses, and helps users become more confident candidates.
   
 - <img src="mithaqi-logo" width="22" align="center" />**[Mithaqi: Family-Business Governance Platform](https://meethaqi.lovable.app/)**  
   Arabic digital platform developed to support governance practices in family businesses by organizing internal regulations, voting        processes, compliance monitoring, and stakeholder communication.
