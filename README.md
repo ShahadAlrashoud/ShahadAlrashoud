@@ -6,7 +6,7 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 
 ## Featured Projects  
-- <img src="BPrepared logo2.png" width="22" align="center" />**[BPrepared](BPrepared)**   
+- <img src="BPrepared logo2.png" width="22" align="center" />**[BPrepared](https://bprepared.vercel.app/)**   
     An AI-powered interview coach that simulates real interviews, analyzes responses, and helps users become more confident candidates.
   
 - <img src="mithaqi-logo" width="22" align="center" />**[Mithaqi: Family-Business Governance Platform](https://meethaqi.lovable.app/)**  
