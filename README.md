@@ -7,7 +7,7 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 ## Featured Projects  
 
-- <img src="peoplelens-logo.png" width="22" align="center" />**[PeopleLens: HR Analytics Platform](https://peoplelens-hr-dashboard.vercel.app/)**  
+- <img src="PeopleLens-logo.png" width="22" align="center" />**[PeopleLens: HR Analytics Platform](https://peoplelens-hr-dashboard.vercel.app/)**  
   SaaS-style HR analytics dashboard designed to visualize workforce insights, track employee performance, and support data-driven HR decisions through interactive dashboards, reports, and employee management features.
 
 
