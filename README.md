@@ -6,6 +6,11 @@ I enjoy building projects that combine design, storytelling, and code. My work i
 
 
 ## Featured Projects  
+
+- <img src="peoplelens-logo.png" width="22" align="center" />**[PeopleLens: HR Analytics Platform](https://peoplelens-hr-dashboard.vercel.app/)**  
+  SaaS-style HR analytics dashboard designed to visualize workforce insights, track employee performance, and support data-driven HR decisions through interactive dashboards, reports, and employee management features.
+
+
 - <img src="BPrepared logo2.png" width="22" align="center" />**[BPrepared](https://bprepared.vercel.app/)**   
     An AI-powered interview coach that simulates real interviews, analyzes responses, and helps users become more confident candidates.
   
